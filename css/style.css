@@ -4,7 +4,7 @@ body{
 
 #inicio{
     border: 1px solid black;
-    width: 80%;
+    width: 95%;
     margin: 0px auto;
     padding: 20px;
     margin-top: 50px;
@@ -15,7 +15,7 @@ body{
 }
 nav {
     border: 1px solid black;
-    width: 80%;
+    width: 95%;
     margin: 0px auto;
     padding: 20px;
     text-align: center;
@@ -24,7 +24,7 @@ nav {
 }
 #contenido{
     border: 1px solid black;
-    width: 80%;
+    width: 95%;
     margin: 0px auto;
     padding: 20px;
     text-align: center;
@@ -33,7 +33,7 @@ nav {
 }
 footer{
     border: 1px solid black;
-    width: 80%;
+    width: 95%;
     margin: 0px auto;
     padding: 20px;
     text-align: center;
